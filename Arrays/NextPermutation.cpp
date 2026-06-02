@@ -9,7 +9,7 @@ public:
             return;
         for (int i = arr.size() - 1; i >= 1; i--)
         { // find pivot
-            if (arr[i - 1] < arr[i])
+            if (    )
             {
                 pivot = i - 1;
                 break;
